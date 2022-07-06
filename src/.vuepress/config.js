@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Docker学习笔记',
+  title: 'Egg学习笔记',
   description: '风浪没平息 我宣告奔跑的意义',
   base: '/web-egg/', // 部署站点的基础路径
   port: 3009,
